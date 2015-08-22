@@ -1,2 +1,3 @@
 # hello-world
 my second attempt at learning computer coding
+I have always wanted to learn how to do computer coding. I want to create a program where I can put in questions and answers. This will help me study my college courses and get "A's" in all my classes. I want the question to come up and I type in the answer. If it is correct, it drops off the list. If it is wrong, I want the correct answer to appear. Then after 5 seconds, the question will disapper and go to the back of the list and come up again for me to answer. After all my questions in my list have been answered, I want the message. "Good Job! You are all done!" to appear. Well, that's all I can think of for now. It is a start... 
